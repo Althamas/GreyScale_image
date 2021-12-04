@@ -1,0 +1,16 @@
+div{
+    width: 122px;
+    padding: 7px;
+    height: 26px;
+    margin: 12px;
+    text-align: center;
+
+}
+.yellowback{
+    background-color: yellow;
+}
+
+.greenback{
+    background-color: yellowgreen;
+}
+
